@@ -22,4 +22,10 @@
     font-weight: bold;
     line-height: 1.25;
     color: #333333;
+    display: flex;
+    align-items:center;
+}
+
+.otherLinks > * {
+    margin-left:4px;
 }
